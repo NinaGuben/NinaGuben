@@ -11,4 +11,4 @@
 - Recently, I delved into the field of Data Science and am currently enrolled in a **Data Science diploma program** 📈
 
 ## what I am looking for 🔮
---------------------- I am eager to combine my expertise in biosciences with programming and pursue a career at the intersection of these fields.---------------------------
+== I am eager to combine my expertise in biosciences with programming and pursue a career at the intersection of these fields.==
